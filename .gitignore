@@ -2,4 +2,5 @@ docs
 index.html
 src/node_modules
 src/.config.js
+src/db.js
 logs
